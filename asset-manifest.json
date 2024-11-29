@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Admin-dashboard/static/css/main.a818cb8e.css",
+    "main.js": "/Admin-dashboard/static/js/main.b662b826.js",
+    "static/js/453.1c13788b.chunk.js": "/Admin-dashboard/static/js/453.1c13788b.chunk.js",
+    "static/media/remixicon.svg?t=1730118419915": "/Admin-dashboard/static/media/remixicon.0551ce0fd52a1a7b1230.svg",
+    "static/media/remixicon.eot?t=1730118419915": "/Admin-dashboard/static/media/remixicon.918a6e24637af868f0ae.eot",
+    "static/media/remixicon.ttf?t=1730118419915": "/Admin-dashboard/static/media/remixicon.13d81601cf448c068ce1.ttf",
+    "static/media/remixicon.woff?t=1730118419915": "/Admin-dashboard/static/media/remixicon.442ee771ea7ae5b713e4.woff",
+    "static/media/bootstrap-icons.woff?": "/Admin-dashboard/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1730118419915": "/Admin-dashboard/static/media/remixicon.11bc908555df35c11b24.woff2",
+    "static/media/bootstrap-icons.woff2?": "/Admin-dashboard/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/image4.png": "/Admin-dashboard/static/media/image4.f4a86fa3eba42a57f3fa.png",
+    "static/media/image5.png": "/Admin-dashboard/static/media/image5.511c2832e2b6a5033dc3.png",
+    "static/media/image2.png": "/Admin-dashboard/static/media/image2.d698174a58edb156c9ec.png",
+    "static/media/image1.png": "/Admin-dashboard/static/media/image1.09b3427dc3efd5de858e.png",
+    "static/media/image3.png": "/Admin-dashboard/static/media/image3.b7ab46cb58f2a8f4bc18.png",
+    "static/media/bodycream.jpg": "/Admin-dashboard/static/media/bodycream.155bf38d3aacee54829d.jpg",
+    "index.html": "/Admin-dashboard/index.html",
+    "main.a818cb8e.css.map": "/Admin-dashboard/static/css/main.a818cb8e.css.map",
+    "main.b662b826.js.map": "/Admin-dashboard/static/js/main.b662b826.js.map",
+    "453.1c13788b.chunk.js.map": "/Admin-dashboard/static/js/453.1c13788b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a818cb8e.css",
+    "static/js/main.b662b826.js"
+  ]
+}
